@@ -4,7 +4,7 @@
  Author:         myName
 
  Script Function:
-	Template AutoIt script.
+	This Script genererates you a Password
 
 #ce ----------------------------------------------------------------------------
 
